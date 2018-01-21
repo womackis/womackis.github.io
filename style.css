@@ -1,0 +1,59 @@
+
+
+
+
+.jumbotron {
+  background-image: url(3d_dots.jpg);
+  background-position: 0% 18%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(212, 231, 236); 
+  text-shadow: gray 0.2em 0.2em 0.2em;
+  
+}
+
+body {
+  background-color: rgba(193, 221, 241, 0.929);
+
+  }
+
+
+.summary {
+  width: 76%;
+  border: 5px solid rgb(52, 120, 150);
+  padding: 15px;
+  margin: 0% 12%;
+}
+
+img {
+  box-shadow: 5px 5px rgba(193, 221, 241, 0.929);
+}
+
+
+h3 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  color: rgb(8, 31, 100);
+  text-decoration: underline;
+}
+
+h4 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  color: rgb(8, 31, 100);
+  text-decoration: underline;
+}
+
+p {
+  font-size: 18px;
+  color: rgb(3, 3, 73);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+  
+.box {
+      
+  background:white;
+  }
+  
